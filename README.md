@@ -2,7 +2,7 @@
  
 - Teixeira Soares-PR
 - Colégio Sesi 
-- sou feliz 😄 hehehe
+- sou feliz 😄 brinks hehehe
 
 <!--
 **Isahsguario/Isahsguario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
